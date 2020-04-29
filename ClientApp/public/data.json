@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "title": "Article 1",
+        "author": "Joe Bloggs",
+        "body": "this is an example summary",
+        "publishedDateTime": "2020-04-24 13:00",
+        "numberOfLikes": "2"
+    },
+    {
+        "id":2,
+        "title": "World News",
+        "author": "Joe Bloggs",
+        "body": "this is an example summary of World News",
+        "publishedDateTime": "2020-04-24 12:00",
+        "numberOfLikes": "2"
+    },
+    {
+        "id":3,
+        "title": "Local News",
+        "author": "Rohan Gupta",
+        "body": "this is an example summary of local news",
+        "publishedDateTime": "2020-04-23 13:00",
+        "numberOfLikes": "2"
+    },
+    {
+        "id":4,
+        "title": "Sport News",
+        "author": "Lisa Millar",
+        "body": "this is an example summary of sport News",
+        "publishedDateTime": "2020-04-24 13:10",
+        "numberOfLikes": "2"
+    },
+    {
+        "id":5,
+        "title": "Boxing News",
+        "author": "Joe Bloggs",
+        "body": "this is an example summary of Boxing News",
+        "publishedDateTime": "2020-04-24 13:50",
+        "numberOfLikes": "2"
+    }
+]
